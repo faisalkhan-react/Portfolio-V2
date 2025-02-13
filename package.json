@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://faisalkhan-react.github.io/FaisalZaid786",
+  "homepage": "https://faisalkhan-react.github.io/Portfolio-V2/",
   "dependencies": {
     "@formspree/react": "^2.2.4",
     "@testing-library/jest-dom": "^5.14.1",

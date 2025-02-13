@@ -9,7 +9,7 @@ import instagramIcon from '../../assets/instagram.svg'
 export function Footer() {
   return (
     <Container className="footer">
-      <a href="https://github.com/FaisalZaid786" className="logo">
+      <a href="https://github.com/faisalkhan-react/" className="logo">
         <span style={{ fontWeight: "bold" }}>More Projects on GitHub</span>
       </a>
       <div>
@@ -27,7 +27,7 @@ export function Footer() {
           <img src={linkedin} alt="Linkedin" />
         </a>
         <a
-          href="https://github.com/FaisalZaid786"
+          href="https://github.com/faisalkhan-react/"
           target="_blank"
           rel="noreferrer"
         >
